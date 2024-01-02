@@ -1,2 +1,2 @@
 # Adv_DB_Management_Projects
-Code created for class group project utilizing database &amp; relation to website
+This repository hosts a group project I created for my graduate class utilizing HTML, CSS, JavaScript, and SQL code.
